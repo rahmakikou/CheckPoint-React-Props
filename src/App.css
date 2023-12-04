@@ -1,0 +1,25 @@
+ h2 {
+  color: blueviolet;
+  text-align: center; 
+  font-family: 'Times New Roman', Times, serif;
+ }
+
+.auteurs {
+  display : flex; 
+ justify-content: center; 
+ padding: 8px; 
+} 
+
+.cards {
+  display: flex; 
+  color: pink;
+  text-align: center; 
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.boutton {
+  color: blueviolet;
+  font-size : 20px; 
+}
